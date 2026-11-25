@@ -20,8 +20,8 @@ the missing code segments.
 -   Matplotlib
 
 ## Developed by
-  Name : MANOJ KUMAR S
-  REG NO : 212223240082
+ - Name : MANOJ KUMAR S
+ - REG NO : 212223240082
 
 ## Algorithm and Explanation
 
